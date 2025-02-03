@@ -1,3 +1,15 @@
+# IMERSÃO FRONT-END ALURA
+
+> 💡 **Definição**: Criar página inspirada no Spotify
+
+### Links importantes
+
+Você pode acessar o repositório da aula [aqui](https://github.com/guilhermeonrails/imersao-front/tree/aula_1).
+
+Guia de mergulho da Imersão Front-End [aqui](https://grupoalura.notion.site/imersao-front-end-2).
+
+Font Awesome: ícones [aqui](https://fontawesome.com/icons).
+
 ## AULA 01 - Revisão: HTML, CSS, JS na Prática
 
 Primeiro passo para mergulhar na Imersão Front-End.
@@ -69,3 +81,11 @@ code .
 - Estrautura de pasta não deve ser a preocupação no inicio do projeto, deve deixar que ao longo do desenvolvimento o aumento de código e da complexidade a necessidade de organizar será sentida.
 - Criar estratura básica do HTML com "! + Enter".
 - Usar comando "Ctrl + B" para fechar/abrir menu esquerdo.
+
+## Mergulhe mais fundo | Pesquisar
+
+- Padrão Bem para CSS
+- Definição HTML, CSS e Javascript [aqui](https://www.alura.com.br/artigos/html-css-e-js-definicoes).
+- HTML e suas tags [aqui](https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-5-atributos-elementos).
+- Guia do CSS [aqui](https://www.alura.com.br/artigos/css).
+- ChatGPT: dicas e como usar [aqui](https://www.alura.com.br/artigos/chatgpt).
