@@ -190,12 +190,14 @@ body {
     font-weight: 400;
     font-size: 12px;
     margin-bottom: 10px;
+    font-family: "DM Sans", sans-serif;
 }
 
 .disclaimer-premium .disclaimer-premium__subtitle{
     color: #ffffff;
     font-size: 14px;
     font-weight: 500;
+    font-family: "DM Sans", sans-serif;
 }
 
 .disclaimer-premium button{
