@@ -65,6 +65,17 @@ code .
      <li></li>
 </ul>
 ```
+- CSS
+VW - VIEWPORT WIDTH
+VH - VIEWPORT HEIGHT
+```css
+.main-container{
+    max-width: 80vw; 
+    height: 100vh;
+    margin-left: 320px;
+    margin-right: 56px;
+}
+```
 
 ### Extensão | Snippet
 
